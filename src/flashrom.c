@@ -3,7 +3,7 @@
 //  MultiPhrom
 //
 //  Created by Barney Hilken on 20/03/2020.
-//  Copyright © 2020 Barney Hilken. All rights reserved.
+//  Copyright © 2020 Barney Hilken. This file is free for noncommercial use: see licence for details.
 //
 
 #include "hardwaremap.h"

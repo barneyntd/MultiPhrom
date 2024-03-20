@@ -3,7 +3,7 @@
 //  MultiPhrom
 //
 //  Created by Barney Hilken on 21/01/2021.
-//  Copyright © 2021 Barney Hilken. All rights reserved.
+//  Copyright © 2021 Barney Hilken. This file is free for noncommercial use: see licence for details.
 //
 
 #ifndef sdcard_h

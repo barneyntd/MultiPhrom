@@ -4,3 +4,4 @@ release/
 src/Builds/
 *.pages
 kicad/gerber/
+Phroms/
