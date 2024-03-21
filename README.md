@@ -17,5 +17,6 @@ It differs from many similar devices in several ways:
 #### Licence
 This project is licensed under creative commons licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 This means that you are free to use it for any noncommercial purpose, provided you credit the copyright holder, and pass on the same conditions.
+If you want to create a commercial product based on Multiphrom, you must obtain a seperate licence from the copyright holder.
 
 The project includes the [sd-reader](http://www.roland-riegel.de/sd-reader/index.html) library by Roland Riegel, which is licenced under GNU LGPL v2.1.
