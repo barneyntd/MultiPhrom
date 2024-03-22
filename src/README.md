@@ -3,8 +3,8 @@ Building MultiPhrom
 
 This folder contains the source code for MultiPhrom's firmware. In order to build it, you will need:
 1.  avr-gcc
-2.  avr-libc   (if you use the atmega168pb mcu, you may need to edit some of the avr-libc files)
-4.  avrdude
+2.  [avr-libc](https://github.com/avrdudes/avr-libc)   (if you use the atmega168pb mcu, you may need to edit some of the avr-libc files)
+4.  [avrdude](https://github.com/avrdudes/avrdude)
 5.  a suitable programmer.
    
 
