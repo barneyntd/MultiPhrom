@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "MultiPhrom")
+    (date "2024-03-25")
+    (company "BarneyNTD")
+  )
+
   (lib_symbols
     (symbol "74xx:74VHCT125" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 1.27 0)

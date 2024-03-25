@@ -1,0 +1,17 @@
+   10 PRINT"Input slot number (C0-FF)";
+   20 INPUT SN$
+   30 SN=EVAL("&"+SN$) AND &3F
+  100 @%=4
+  110 *FX 159,0,64
+  120 *FX 159,0,64
+  130 *FX 159,0,64
+  140 A%=159:X%=0:Y%=64+SN*4 MOD 16:R%=USR(&FFF4)
+  150 A%=159:X%=0:Y%=64+SN DIV 4:R%=USR(&FFF4)
+  160 FOR I%=0 TO &3FFF
+  170   *FX 159,0,16
+  180   A%=158:R%=USR(&FFF4)
+  190   Y%=((R% DIV &10000)-1) AND &FF
+  200   IF I% MOD 16 = 0 THEN PRINT:PRINT~I%," ",;
+  210   PRINT ~Y%,;
+  220   NEXT
+  230 END
