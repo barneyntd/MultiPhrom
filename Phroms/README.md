@@ -9,7 +9,7 @@ I have included them here for testing, but they should not be included in distri
 If you are the copyright holder, please let me know what you would like me to do about your data*
 
 1. **PH\_EFR** This is VM71003A, the speaking clock rom.
-2. **PH\_F0R** This is VM61002, the phrom included in the US version if the model B.
+2. **PH\_F0R** This is VM61002, the phrom included in the US version of the model B.
 3. **PH\_FEN** This is a phrom created using PHSAVE, containing BASIC files for the \*ROM filing system.
 4. **PH\_FFN** This is CM62024, the Kenneth Kendal phrom included in the BBC speech upgrade.
 
