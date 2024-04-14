@@ -13,6 +13,7 @@ It differs from many similar devices in several ways:
 - **src** This holds the source code, written in C, and a Makefile to build it;
 - **docs** This holds documents explaining how to use multiphrom, and the BBC micro speech system;
 - **BASIC** This holds several sample programs, written in BBC BASIC.
+- **Phroms** This holds some sample phroms for testing.
 
 #### Licence
 This project is licensed under creative commons licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
