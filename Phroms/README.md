@@ -8,13 +8,13 @@ Put them on a micro-SD card, plug it into Multiphrom, and wait for the LED to go
 I have included them here for testing, but they should not be included in distributions.
 If you are the copyright holder, please let me know what you would like me to do about your data*
 
-1. **PH\_EFR** This is VM71003A, the speaking clock rom.
-2. **PH\_F0R** This is VM61002, the phrom included in the US version of the model B.
-3. **PH\_FEN** This is a phrom created using PHSAVE, containing BASIC files for the \*ROM filing system.
-4. **PH\_FFN** This is CM62024, the Kenneth Kendal phrom included in the BBC speech upgrade.
+1. **Ph\_EFR** This is VM71003A, the speaking clock rom.
+2. **Ph\_F0R** This is VM61002, the phrom included in the US version of the model B.
+3. **Ph\_FEN** This is a phrom created using PHSAVE, containing BASIC files for the \*ROM filing system.
+4. **Ph\_FFN** This is CM62024, the Kenneth Kendal phrom included in the BBC speech upgrade.
 
 The filename controls how MultiPhrom treats the files:
-* Any filename not of the form "PH\_hhr" where hh is a hex value between C0 and FF,
+* Any filename not of the form "Ph\_hhr" where hh is a hex value between C0 and FF,
 and r is N or R, is ignored.
 * The two characters hh are the slot number in which the phrom will be installed.
 Phrom data is not slot specific, so phroms can be installed in any slot.
